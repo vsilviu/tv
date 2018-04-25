@@ -92,7 +92,7 @@ public class TvApplication {
 				throw new RuntimeException("Media trebuie sa fie intre 1 si 10!");
 			}
 
-			sumaMedii -= medie;
+			sumaMedii += medie;
 		}
 
 		return String.format("Studentul %s are media %.2f", name, sumaMedii/6);

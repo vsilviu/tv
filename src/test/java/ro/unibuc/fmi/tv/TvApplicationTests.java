@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.Collection;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest( )
+@SpringBootTest
 public class TvApplicationTests {
 
 	@Rule public ExpectedException expectedException = ExpectedException.none();
