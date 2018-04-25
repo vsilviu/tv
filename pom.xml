@@ -66,9 +66,9 @@
 					<!--<targetTests>-->
 						<!--<param>com.your.package.root*</param>-->
 					<!--</targetTests>-->
-					<mutators>
-						<mutator>MATH</mutator>
-					</mutators>
+					<!--<mutators>-->
+						<!--<mutator>MATH</mutator>-->
+					<!--</mutators>-->
 				</configuration>
 			</plugin>
 		</plugins>
